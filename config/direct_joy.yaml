@@ -1,0 +1,12 @@
+direct_joy:
+  ros__parameters:
+    controller_mode: auto
+    enable_button: 5
+    max_speed_linear_x: 1.0
+    max_speed_linear_y: 1.0
+    max_speed_rotation: 1.0
+    turbo_scalar: 2.0
+    omni_drive: false
+    deadzone: 0.05
+    joy_timeout: 0.5
+    publish_rate: 20.0
